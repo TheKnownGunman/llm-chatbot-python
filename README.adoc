@@ -1,4 +1,4 @@
-Pre-requisites
+== Pre-requisites
 1. OpenAI API Key
 2. Running NEO4J Database instance
 
