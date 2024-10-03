@@ -11,12 +11,13 @@ The repository for the medical regulatory RAG application. To allows medical per
 To run the application, you must install the libraries listed in `requirements.txt`.
 
 ```sh
-pip install -r requirements.txt ```
+pip install -r requirements.txt
+```
 
 
 Then run the `streamlit run` command to start the app on [http://localhost:8501](http://localhost:8501).
 
 ```sh
 streamlit run bot.py ```
-
+```
 
