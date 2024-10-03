@@ -1,6 +1,6 @@
 == Pre-requisites
-1. OpenAI API Key
-2. Running NEO4J Database instance
+1. [OpenAI API Key](https://platform.openai.com/api-keys)
+2. Running [NEO4J Database instance](https://neo4j.com/product/auradb/?ref=docs-nav-get-started)
 
 == Running the application
 
