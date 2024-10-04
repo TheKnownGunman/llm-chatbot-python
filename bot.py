@@ -4,7 +4,7 @@ from utils import write_message
 from agent import generate_response
 
 # Page Config
-st.set_page_config("Ebert", page_icon=":movie_camera:")
+st.set_page_config("Medical Regulatory Agent", page_icon=":movie_camera:")
 
 # Set up Session State
 if "messages" not in st.session_state:
